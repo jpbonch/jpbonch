@@ -5,14 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpbonch" alt="jpbonch" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jpabonch" target="blank"><img src="https://img.shields.io/twitter/follow/jpabonch?logo=twitter&style=for-the-badge" alt="jpabonch" /></a> </p>
-
 - 🔭 I’m currently working on [Schools Clean Air Project in Abingdon](https://scampa.herokuapp.com)
 
 - 🌱 I’m currently learning **Web3 and React**
 
 - 📫 How to reach me **jp.bonchristiano@gmail.com**
-
+`
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jpabonch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpabonch" height="30" width="40" /></a>
