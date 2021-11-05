@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpbonch&label=Profile%20views&color=0e75b6&style=flat" alt="jpbonch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpbonch" alt="jpbonch" /></a> </p>
-
 - 🔭 I’m currently working on [Schools Clean Air Project in Abingdon](https://scampa.herokuapp.com)
 
 - 🌱 I’m currently learning **Web3 and React**
