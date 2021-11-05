@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">A CS student from Brazil</h3>
+<h1 align="center">João Bonchristiano</h1>
+<h3 align="center">CS student from 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpbonch&label=Profile%20views&color=0e75b6&style=flat" alt="jpbonch" /> </p>
 
